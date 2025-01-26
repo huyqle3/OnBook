@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Original/StickyNotesMetaSSAColocation.unity
+    guid: e2857486134c1f24eaf06cdef0cb0d9f
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-2.unity
+    guid: 4b99695722d7143a9995c0ab28bb2dfb
+  - enabled: 0
+    path: Assets/Scenes/Oculus Movement Scene Tryout/Oculus Movement Scene.unity
+    guid: f66281af00476fa4ebf48af1869c5c2e
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-CustomIK.unity
+    guid: e6df8c368304349c0aeb42239648fc62
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-ReplayLocal.unity
+    guid: 2ccae6c9404734e2993bbeaf5849df17
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-ReplayLocal-02.unity
+    guid: 82ea5ac6bf1c9401cbf9e694cf39b96e
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-Without_Poke.unity
+    guid: 8304a3884aabe44398504c3a7c2919db
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-Replay-Good-02.unity
+    guid: f53f398a2a7c149fd98113fa67d1198a
+  - enabled: 0
+    path: Assets/Scenes/Examples/StickyNotes-Replay-Good-04.unity
+    guid: 8acd36cb7426f471fb6f011200ab9fae
+  - enabled: 1
+    path: Assets/Scenes/Examples/StickyNotes-Replay-Good-05.unity
+    guid: 21b1f3e070ef648dba7b919438787711
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4ebff249c28f61844a87606b7fc34b9e,
+      type: 2}
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: c8e2318667699344287b85fce554f3f1,
+      type: 2}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: acd00517c6ded4021b4e1a68c886ddba,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 1cae0f2f9aaef464c8ed71b38352cd21,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b6a6997d697719e4b9f9962d42ebc3a8,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a5854d47103f9204bb8283aa6df2affc,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
